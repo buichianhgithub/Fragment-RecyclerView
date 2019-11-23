@@ -6,6 +6,9 @@
     android:layout_height="250dp"
     android:orientation="vertical"
     app:cardBackgroundColor="#F2EFEE"
+    android:layout_marginRight="20dp"
+    app:cardCornerRadius="@android:dimen/app_icon_size"
+    app:cardElevation="5dp"
     >
 
     <RelativeLayout
